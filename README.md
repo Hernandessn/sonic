@@ -1,6 +1,6 @@
-<video src="./img/sonic.run.gif" />
 
-<h1>Cronômetro Sonic />
+
+<h1>Cronômetro Sonic <h1/>
 <p>Este projeto é um cronômetro inspirado no famoso jogo do Sonic, desenvolvido utilizando HTML, CSS e JavaScript.
 <br>
 Funcionalidades
