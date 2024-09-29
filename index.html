@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-Br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./styles.css">
+  
+  <title>Sonic-Cronômetro</title>
+</head>
+
+<body>
+
+  <div class="painel">
+    <img class="painel-sonic" src="./img/painel-sonic.png" alt="painel do sonic">
+    <h3 class="segundos">0</h3>
+    <h1 class="minutes">0</h1><p>min</p>
+    <h2 class="milisegundos">0</h2>
+  </div>
+  <div class='caixa'>
+    <video class="fundo" src="./img/image.fundo.mp4" autoplay loop></video>
+    <video class="fundo1" src="" autoplay loop></video>
+
+
+    <div class="buttons">
+
+      <button onclick="start()">Start</button>
+      <button onclick="stop()">Stop</button>
+      <button onclick="restart()">Restart</button>
+
+
+    </div>
+
+
+
+  </div>
+  <script src="./scripts.js"></script>
+</body>
+
+</html>
