@@ -1,4 +1,4 @@
-<img src-"" />
+<img src="https://github.com/Hernandessn/sonic/blob/main/img/screenshot/1.png?raw=true" alt="" />
 
 # Cronômetro Sonic 🕹️
 
