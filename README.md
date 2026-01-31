@@ -35,14 +35,3 @@ Este projeto é um cronômetro interativo inspirado no universo do Sonic, o famo
 Confira o projeto em funcionamento:  
 🔗 [Cronômetro Sonic](https://timer-sonic.netlify.app/)
 
----
-
-## Melhorias Futuras e Manutenção 🔧
-
-Este projeto está em constante evolução, e estou sempre trabalhando para corrigir bugs e implementar novas funcionalidades. Algumas das melhorias planejadas incluem:
-
-- Adicionar mais animações e efeitos sonoros para imersão.
-- Melhorar a responsividade para diferentes dispositivos.
-- Implementar um sistema de recordes (high scores) para os usuários.
-
-Se você encontrar algum problema ou tiver sugestões, sinta-se à vontade para contribuir ou entrar em contato!
